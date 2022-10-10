@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.samsung.sep",
+    "sha256_cert_fingerprints":
+    ["F1:AB:99:5A:80:33:47:B7:94:CE:2F:E7:25:9A:29:13:1D:DE:D5:89:CE:61:DC:83:35:85:78:27:7D:E1:88:25"]
+  }
+}]
