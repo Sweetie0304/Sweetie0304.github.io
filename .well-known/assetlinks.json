@@ -6,4 +6,13 @@
     "sha256_cert_fingerprints":
     ["F1:AB:99:5A:80:33:47:B7:94:CE:2F:E7:25:9A:29:13:1D:DE:D5:89:CE:61:DC:83:35:85:78:27:7D:E1:88:25"]
   }
+  },
+  {
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.samsung.sep",
+    "sha256_cert_fingerprints":
+    ["9A:ED:47:D7:40:CD:63:D1:09:C6:91:AA:46:22:8B:B2:0B:35:18:4C:E2:E6:A8:7C:CD:E1:54:ED:7F:DA:43:23"]
+  }
 }]
